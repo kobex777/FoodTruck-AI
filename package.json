@@ -1,0 +1,24 @@
+{
+  "name": "truckcompanion",
+  "version": "1.0.0",
+  "description": "A smart AI-driven Next.js app to help food truckers discover local events, manage contacts, and get insights. Built with Next.js, React, Tailwind, and Supabase.",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "22.15.18",
+    "@types/react": "19.1.4",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "next": "^15.3.2"
+  }
+}
